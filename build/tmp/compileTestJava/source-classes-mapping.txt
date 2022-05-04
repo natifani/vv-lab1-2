@@ -1,4 +1,0 @@
-service/ServiceTestMock.java
- service.ServiceTestMock
-service/ServiceTest.java
- service.ServiceTest
