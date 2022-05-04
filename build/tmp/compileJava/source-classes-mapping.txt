@@ -1,0 +1,52 @@
+domain/HasID.java
+ domain.HasID
+domain/Grade.java
+ domain.Grade
+domain/Pair.java
+ domain.Pair
+validation/GradeValidator.java
+ validation.GradeValidator
+validation/Validator.java
+ validation.Validator
+validation/StudentValidator.java
+ validation.StudentValidator
+repository/CRUDRepository.java
+ repository.CRUDRepository
+validation/ValidationException.java
+ validation.ValidationException
+domain/Student.java
+ domain.Student
+validation/HomeworkValidator.java
+ validation.HomeworkValidator
+domain/Homework.java
+ domain.Homework
+repository/GradeRepository.java
+ repository.GradeRepository
+repository/StudentFileRepository.java
+ repository.StudentFileRepository
+repository/StudentRepository.java
+ repository.StudentRepository
+repository/GradeFileRepository.java
+ repository.GradeFileRepository
+repository/AbstractFileRepository.java
+ repository.AbstractFileRepository
+repository/HomeworkXMLRepository.java
+ repository.HomeworkXMLRepository
+repository/HomeworkRepository.java
+ repository.HomeworkRepository
+repository/HomeworkFileRepository.java
+ repository.HomeworkFileRepository
+repository/StudentXMLRepository.java
+ repository.StudentXMLRepository
+repository/AbstractCRUDRepository.java
+ repository.AbstractCRUDRepository
+repository/AbstractXMLRepository.java
+ repository.AbstractXMLRepository
+repository/GradeXMLRepository.java
+ repository.GradeXMLRepository
+service/Service.java
+ service.Service
+Main.java
+ Main
+console/UI.java
+ console.UI

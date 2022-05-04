@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.ServiceTestMock" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-04-04T15:46:16" hostname="DESKTOP-SV7I31C" time="1.383">
+  <properties/>
+  <testcase name="saveStudent()" classname="service.ServiceTestMock" time="1.37"/>
+  <testcase name="saveGrade()" classname="service.ServiceTestMock" time="0.008"/>
+  <testcase name="deleteHomework()" classname="service.ServiceTestMock" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

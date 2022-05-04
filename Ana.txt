@@ -1,0 +1,6 @@
+Homework: 2
+Grade: 8.0
+Delivered in week: 6
+Deadline: 8
+Feedback: ok
+
